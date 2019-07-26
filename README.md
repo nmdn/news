@@ -1,1 +1,2 @@
-<centre><h1>Click To Play<h1></centre>
+<h1>Click To Play<h1>
+  <a href="a.jpg"></a>
